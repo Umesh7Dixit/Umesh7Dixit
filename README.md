@@ -15,12 +15,11 @@
 
 - ⚡ Fun fact **I think I am not funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/umesh7dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theeayushkumar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umesh-dixit-a803b4232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theeayushkumar" height="30" width="40" /></a>
 <a href="https://instagram.com/the_umeshdixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theeayushkumar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/umesh7dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="theeayushkumar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/umesh7dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theeayushkumar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/umesh7trez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="theeayushkumar" height="30" width="40" /></a>
 </p>
